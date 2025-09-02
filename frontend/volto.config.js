@@ -1,5 +1,5 @@
 const addons = ['volto-portal-ufac-volto'];
-const theme = '';
+const theme = '@kitconcept/volto-light-theme';
 
 module.exports = {
   addons,
