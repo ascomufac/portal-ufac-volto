@@ -33,6 +33,8 @@
   "@kitconcept/volto-introduction-block",
   "@kitconcept/volto-highlight-block",
   "@kitconcept/volto-separator-block",
+  "@kitconcept/volto-slider-block",
+  "@kitconcept/volto-carousel-block",
   "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
@@ -44,6 +46,7 @@
     "@kitconcept/volto-introduction-block": "1.0.0",
     "@kitconcept/volto-separator-block": "4.1.2",
     "@kitconcept/volto-slider-block": "6.3.1",
+    "@kitconcept/volto-carousel-block":"1.1.0",
     "@kitconcept/volto-light-theme": "5.0.1"
   },
   "peerDependencies": {
